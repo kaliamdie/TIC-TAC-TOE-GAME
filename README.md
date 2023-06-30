@@ -1,5 +1,5 @@
 # TIC-TAC-TOE GAME
-This is the screenshot for TIC TAC TOE Game.
+This is the screenshot of TIC TAC TOE Game.
 
 ![Image of TIC-TAC-TOE](tictac.png)
 ## How to play
