@@ -5,7 +5,7 @@ This is the image for TIC TAC TOE Game.
 ## How to play
 1,Open this [link](https://kaliamdie.github.io/TIC-TAC-TOE-GAME/) in your web browser.  
 2,The game board will be shown with 9 empty cells.  
-3, Players take turns clickin on the empty cells to put their Mark(X or O).  
+3, Players take turns clicking on the empty cells to put their Mark(X or O).  
 4,The game is to get three of your marks in a row,either horizontally,vertically or diagonally.  
 5,the game wil display the status of the player on the bottom and it track the points of the player's on the top.  
 6,If one of the player wins it show the winnning player's name,showing the points, and it will display a color on the cell.  
