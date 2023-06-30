@@ -31,4 +31,4 @@ This is the image for TIC TAC TOE Game.
 - mouse.mp3: Sound effect file for winning the game.
 - game.wav: Sound effect file for game over.
 ## link
-[click here ](https://kaliamdie.github.io/TIC-TAC-TOE-GAME/) `Feel free to check out this link to play the game.`
+[click here ](https://kaliamdie.github.io/TIC-TAC-TOE-GAME/) `if you want to check out the link to play this game.`
