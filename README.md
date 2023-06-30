@@ -10,7 +10,7 @@ This is the image for TIC TAC TOE Game.
 5,the game wil display the status of the player on the bottom and it track the points of the player's on the top.  
 6,If one of the player wins it show the winnning player's name,showing the points, and it will display a color on the cell.  
 7,If there is no winner that means if there is no empty cell,the game will ends in a draw.  
-8,The game has two buttons one for playing again  without removing your points and the other is to start a new game.  
+8,The game has two buttons one for playing again  without removing the points and the restart button to start a new game.  
 
 ## Languages
 - HTML
