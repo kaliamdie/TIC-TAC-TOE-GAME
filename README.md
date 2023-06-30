@@ -1,8 +1,9 @@
 # TIC-TAC-TOE GAME
 This is the image for TIC TAC TOE Game.
+
 ![Image of TIC-TAC-TOE](tictac.png)
 ## How to play
-1,Open this link in your web browser.  
+1,Open this [link](https://kaliamdie.github.io/TIC-TAC-TOE-GAME/) in your web browser.  
 2,The game board will be shown with 9 empty cells.  
 3, Players take turns clickin on the empty cells to put their Mark(X or O).  
 4,The game is to get three of your marks in a row,either horizontally,vertically or diagonally.  
@@ -29,3 +30,5 @@ This is the image for TIC TAC TOE Game.
 - click.mp3: Sound effect file for clicking on a cell.
 - mouse.mp3: Sound effect file for winning the game.
 - game.wav: Sound effect file for game over.
+## link
+[click here ](https://kaliamdie.github.io/TIC-TAC-TOE-GAME/) `Feel free to check out this link to play the game.`
